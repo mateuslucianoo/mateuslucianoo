@@ -17,5 +17,5 @@
   <img align="center" alt="GIt" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
-Sou um estudante de Python e Django apaixonado por desenvolvimento web. Estou sempre buscando aprender novas tecnologias e criar soluções inovadoras.
+apaixonado por tecnologia!
 
