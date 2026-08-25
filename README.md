@@ -37,4 +37,10 @@ Analista de Sistemas Júnior focado em <b>automação de processos</b> na Betha 
 
 ---
 
+### 📂 Projetos
+
+- 🧮 [Calculadora de Salário Líquido](https://github.com/mateuslucianoo/calculadora-salario-liquido) — script em Python que calcula o salário líquido a partir do bruto, aplicando os descontos progressivos de INSS e IRRF.
+
+---
+
 <p align="center"><i>Aberto a novas oportunidades como desenvolvedor — vamos conversar!</i></p>
