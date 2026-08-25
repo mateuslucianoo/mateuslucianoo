@@ -15,7 +15,7 @@
 ### 🚀 Sobre mim
 
 - 💼 Atualmente **Analista de Suporte e Implantação Júnior** na **Betha Sistemas** (Criciúma/SC), atendendo prefeituras de todo o Brasil na plataforma Betha Folha Cloud / RH Pessoal.
-- Trabalho com **automação de processos** usando Groovy (fórmulas de folha/ponto) e **Python** — inclusive um script que reduziu em ~60% o tempo de resolução de chamados de DIRF.
+- Trabalho com **automação de processos** usando Groovy (fórmulas de folha/ponto) e **Python**.
 - 📊 Pós-graduado em **Business Intelligence** (UNIASSELVI) e com curso de **Desenvolvimento de Sistemas com Python** (UNIASSELVI).
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Anhanguera Educacional).
 - 🌱 Estudando Django para desenvolvimento web e sempre buscando aprender novas tecnologias.
