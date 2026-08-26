@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Mateus Luciano 👋</h1>
+<h1 align="center">Mateus Luciano</h1>
 
 <p align="center">
 Analista de Sistemas Júnior focado em <b>automação de processos</b> na Betha Sistemas — atuo com Groovy, Python e integrações com sistemas de Gestão Pública (eSocial, TCE/e-SFINGE).
@@ -12,18 +12,18 @@ Analista de Sistemas Júnior focado em <b>automação de processos</b> na Betha 
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-- 💼 Atualmente **Analista de Suporte e Implantação Júnior** na **Betha Sistemas** (Criciúma/SC), atendendo prefeituras de todo o Brasil na plataforma Betha Folha Cloud / RH Pessoal.
+- Atualmente **Analista de Suporte e Implantação Júnior** na **Betha Sistemas** (Criciúma/SC), atendendo prefeituras de todo o Brasil na plataforma Betha Folha Cloud / RH Pessoal.
 - Trabalho com **automação de processos** usando Groovy (fórmulas de folha/ponto) e **Python**.
-- 📊 Pós-graduado em **Business Intelligence** (UNIASSELVI) e com curso de **Desenvolvimento de Sistemas com Python** (UNIASSELVI).
-- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Anhanguera Educacional).
-- 🌱 Estudando Django para desenvolvimento web e sempre buscando aprender novas tecnologias.
-- 📍 Içara / Criciúma, Santa Catarina, Brasil.
+- Pós-graduado em **Business Intelligence** (UNIASSELVI) e com curso de **Desenvolvimento de Sistemas com Python** (UNIASSELVI).
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Anhanguera Educacional).
+- Estudando Django para desenvolvimento web e sempre buscando aprender novas tecnologias.
+- Içara / Criciúma, Santa Catarina, Brasil.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -37,10 +37,10 @@ Analista de Sistemas Júnior focado em <b>automação de processos</b> na Betha 
 
 ---
 
-### 📂 Projetos
+### Projetos
 
-- 🧮 [Calculadora de Salário Líquido](https://github.com/mateuslucianoo/calculadora-salario-liquido) — script em Python que calcula o salário líquido a partir do bruto, aplicando os descontos progressivos de INSS e IRRF.
+- [Calculadora de Salário Líquido](https://github.com/mateuslucianoo/calculadora-salario-liquido) — script em Python que calcula o salário líquido a partir do bruto, aplicando os descontos progressivos de INSS e IRRF.
 
 ---
 
-<p align="center"><i>Aberto a novas oportunidades como desenvolvedor — vamos conversar!</i></p>
+<p align="center"><i>Aberto a novas oportunidades como desenvolvedor — vamos conversar.</i></p>
