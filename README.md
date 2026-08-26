@@ -5,7 +5,7 @@ Analista de Sistemas Júnior focado em <b>automação de processos</b> na Betha 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mateus-luciano-38087722b/">
+<a href="https://www.linkedin.com/in/mateus-luciano/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
